@@ -44,7 +44,7 @@ Preprocessing lives inside the scikit-learn `Pipeline`, so the scaler is fitted 
 ## 5. Installation
 
 ```bash
-git clone https://github.com/<your-username>/claimiq-insurance-triage.git
+git clone https://github.com/arnavgupta3911/claimiq-insurance-triage.git
 cd claimiq-insurance-triage
 
 python3 -m venv .venv
